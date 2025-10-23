@@ -1,0 +1,39 @@
+{
+    "movement": {
+        "speed": 0.1,
+        "turn_angle": 30,
+        "movement_duration": 2.0,
+        "wall_detection_threshold": 50,
+        "exploration_turn_chance": 0.3
+    },
+    "chat": {
+        "fact_interval": 30,
+        "enable_facts": true,
+        "custom_facts": [],
+        "show_status_messages": true
+    },
+    "hotkeys": {
+        "start_key": "f1",
+        "stop_key": "f2",
+        "enable_hotkeys": true
+    },
+    "detection": {
+        "edge_detection_low": 50,
+        "edge_detection_high": 150,
+        "screenshot_delay": 0.5
+    },
+    "safety": {
+        "failsafe": true,
+        "pause_duration": 0.1,
+        "max_movement_time": 10.0
+    },
+    "window": {
+        "auto_focus": true,
+        "window_title_contains": "Roblox"
+    },
+    "logging": {
+        "level": "INFO",
+        "log_to_file": true,
+        "log_filename": "cipher_bot.log"
+    }
+}

@@ -1,0 +1,763 @@
+2025-10-22 21:42:09,881 - INFO - Cipher Bot initialized
+2025-10-22 21:45:12,628 - INFO - Hotkeys registered: F1 = Start Bot, F2 = Stop Bot
+2025-10-22 21:45:12,628 - INFO - Cipher Bot initialized with hotkey controls (F1=Start, F2=Stop)
+2025-10-22 21:46:28,004 - INFO - Hotkeys registered: F1 = Start Bot, F2 = Stop Bot
+2025-10-22 21:46:28,004 - INFO - Cipher Bot initialized with hotkey controls (F1=Start, F2=Stop)
+2025-10-22 21:46:35,110 - INFO - Starting Cipher Bot system...
+2025-10-22 21:46:35,110 - INFO - Found Roblox window: Roblox
+2025-10-22 21:46:35,111 - INFO - Window position: (-8, -8, 1928, 1088)
+2025-10-22 21:49:22,126 - INFO - Hotkeys registered: F1 = Start Bot, F2 = Stop Bot
+2025-10-22 21:49:22,126 - INFO - Cipher Bot initialized with hotkey controls (F1=Start, F2=Stop)
+2025-10-22 21:49:37,465 - INFO - Hotkeys registered: F1 = Start Bot, F2 = Stop Bot
+2025-10-22 21:49:37,465 - INFO - Cipher Bot initialized with hotkey controls (F1=Start, F2=Stop)
+2025-10-22 21:50:13,121 - INFO - Starting Cipher Bot system...
+2025-10-22 21:50:13,123 - ERROR - No Roblox game window found!
+2025-10-22 21:50:13,123 - ERROR - Please make sure:
+2025-10-22 21:50:13,123 - ERROR - 1. Roblox is running (not just the launcher)
+2025-10-22 21:50:13,123 - ERROR - 2. You're in a game (not just the main menu)
+2025-10-22 21:50:13,123 - ERROR - 3. Roblox Studio is NOT what's running
+2025-10-22 21:50:41,626 - INFO - Hotkeys registered: F1 = Start Bot, F2 = Stop Bot
+2025-10-22 21:50:41,626 - INFO - Cipher Bot initialized with hotkey controls (F1=Start, F2=Stop)
+2025-10-22 21:50:44,039 - INFO - Starting Cipher Bot system...
+2025-10-22 21:50:44,040 - ERROR - No Roblox game window found!
+2025-10-22 21:50:44,040 - ERROR - Please make sure:
+2025-10-22 21:50:44,040 - ERROR - 1. Roblox is running (not just the launcher)
+2025-10-22 21:50:44,040 - ERROR - 2. You're in a game (not just the main menu)
+2025-10-22 21:50:44,040 - ERROR - 3. Roblox Studio is NOT what's running
+2025-10-22 22:19:31,957 - INFO - Hotkeys registered: F1 = Start Bot, F2 = Stop Bot
+2025-10-22 22:19:31,957 - INFO - Cipher Bot initialized with hotkey controls (F1=Start, F2=Stop)
+2025-10-22 22:19:31,957 - INFO - Window detection found 1 Roblox windows
+2025-10-22 22:19:31,957 - INFO - Found Roblox windows:
+2025-10-22 22:19:31,959 - INFO -   1. [LAUNCHER] Roblox
+2025-10-22 22:19:31,976 - WARNING - The bot may not work properly until you're in a game.
+2025-10-22 22:19:31,977 - INFO - Using window: Roblox
+2025-10-22 22:19:31,977 - INFO - Window position: (-8, -8, 1928, 1088)
+2025-10-22 22:19:32,487 - INFO - Successfully focused Roblox window
+2025-10-22 22:19:56,206 - INFO - Hotkeys registered: F1 = Start Bot, F2 = Stop Bot
+2025-10-22 22:19:56,206 - INFO - Cipher Bot initialized with hotkey controls (F1=Start, F2=Stop)
+2025-10-22 22:20:06,076 - INFO - Starting Cipher Bot system...
+2025-10-22 22:20:06,077 - INFO - Window detection found 1 Roblox windows
+2025-10-22 22:20:06,077 - INFO - Found Roblox windows:
+2025-10-22 22:20:06,078 - INFO -   1. [LAUNCHER] Roblox
+2025-10-22 22:20:06,078 - WARNING - WARNING: Only found launcher window - please join a game!
+2025-10-22 22:20:06,078 - WARNING - The bot may not work properly until you're in a game.
+2025-10-22 22:20:06,078 - INFO - Using window: Roblox
+2025-10-22 22:20:06,078 - INFO - Window position: (439, 207, 1255, 845)
+2025-10-22 22:20:06,581 - WARNING - Could not focus window (this is often OK): (6, 'SetForegroundWindow', 'The handle is invalid.')
+2025-10-22 22:20:06,581 - INFO - Bot will still work, just make sure Roblox is visible
+2025-10-22 22:20:07,589 - INFO - Press F1 to START the bot
+2025-10-22 22:20:07,589 - INFO - Press F2 to STOP the bot
+2025-10-22 22:20:07,589 - INFO - Press Ctrl+C to exit completely
+2025-10-22 22:20:13,855 - INFO - Wall detected! Turning left
+2025-10-22 22:20:26,685 - INFO - Wall detected! Turning right
+2025-10-22 22:21:55,438 - INFO - Bot system stopped by user
+2025-10-22 22:21:55,439 - INFO - Stopping Cipher Bot system...
+2025-10-22 22:21:55,872 - INFO - Bot system stopped successfully
+2025-10-23 15:53:36,194 - INFO - Hotkeys registered: F1 = Start Bot, F2 = Stop Bot
+2025-10-23 15:53:36,194 - INFO - Cipher Bot initialized with hotkey controls (F1=Start, F2=Stop)
+2025-10-23 15:53:36,195 - INFO - Starting Cipher Bot system...
+2025-10-23 15:53:36,196 - INFO - Window detection found 1 Roblox windows
+2025-10-23 15:53:36,196 - INFO - Found Roblox windows:
+2025-10-23 15:53:36,197 - INFO -   1. [LAUNCHER] Roblox
+2025-10-23 15:53:36,197 - WARNING - WARNING: Only found launcher window - please join a game!
+2025-10-23 15:53:36,197 - WARNING - The bot may not work properly until you're in a game.
+2025-10-23 15:53:36,197 - INFO - Using window: Roblox
+2025-10-23 15:53:36,197 - INFO - Window position: (-8, -8, 1928, 1088)
+2025-10-23 15:53:36,197 - INFO - Successfully focused window (method 1)
+2025-10-23 15:53:37,268 - INFO - Press F1 to START the bot
+2025-10-23 15:53:37,269 - INFO - Press F2 to STOP the bot
+2025-10-23 15:53:37,269 - INFO - Press Ctrl+C to exit completely
+2025-10-23 15:53:43,941 - INFO - In launcher mode - doing basic movement
+2025-10-23 15:53:43,941 - INFO - Moving forward for 1.8 seconds
+2025-10-23 15:53:49,702 - INFO - In launcher mode - doing basic movement
+2025-10-23 15:53:49,702 - INFO - Moving forward for 1.2 seconds
+2025-10-23 15:53:54,774 - INFO - In launcher mode - doing basic movement
+2025-10-23 15:53:54,774 - INFO - Moving forward for 1.8 seconds
+2025-10-23 15:54:00,723 - INFO - In launcher mode - doing basic movement
+2025-10-23 15:54:00,723 - INFO - Moving forward for 1.7 seconds
+2025-10-23 15:54:06,542 - INFO - In launcher mode - doing basic movement
+2025-10-23 15:54:06,542 - INFO - Moving forward for 1.7 seconds
+2025-10-23 15:54:09,518 - INFO - Turning left for 0.8 seconds
+2025-10-23 15:54:13,016 - INFO - In launcher mode - doing basic movement
+2025-10-23 15:54:13,016 - INFO - Moving forward for 1.6 seconds
+2025-10-23 15:54:15,439 - INFO - Turning left for 0.6 seconds
+2025-10-23 15:54:16,156 - INFO - Sent message: Amazing fact: A group of flamingos is called a 'flamboyance'!
+2025-10-23 15:54:35,524 - INFO - Hotkeys registered: F1 = Start Bot, F2 = Stop Bot
+2025-10-23 15:54:35,524 - INFO - Cipher Bot initialized with hotkey controls (F1=Start, F2=Stop)
+2025-10-23 15:54:35,524 - INFO - Starting Cipher Bot system...
+2025-10-23 15:54:35,526 - INFO - Window detection found 1 Roblox windows
+2025-10-23 15:54:35,526 - INFO - Found Roblox windows:
+2025-10-23 15:54:35,526 - INFO -   1. [LAUNCHER] Roblox
+2025-10-23 15:54:35,526 - WARNING - WARNING: Only found launcher window - please join a game!
+2025-10-23 15:54:35,526 - WARNING - The bot may not work properly until you're in a game.
+2025-10-23 15:54:35,526 - INFO - Using window: Roblox
+2025-10-23 15:54:35,526 - INFO - Window position: (0, 0, 1920, 1080)
+2025-10-23 15:54:35,526 - INFO - Successfully focused window (method 1)
+2025-10-23 15:54:36,534 - INFO - Press F1 to START the bot
+2025-10-23 15:54:36,534 - INFO - Press F2 to STOP the bot
+2025-10-23 15:54:36,534 - INFO - Press Ctrl+C to exit completely
+2025-10-23 15:54:40,220 - INFO - In launcher mode - doing basic movement
+2025-10-23 15:54:40,220 - INFO - Moving forward for 1.4 seconds
+2025-10-23 15:54:44,880 - INFO - In launcher mode - doing basic movement
+2025-10-23 15:54:44,880 - INFO - Moving forward for 1.0 seconds
+2025-10-23 15:54:49,344 - INFO - In launcher mode - doing basic movement
+2025-10-23 15:54:49,344 - INFO - Moving forward for 1.4 seconds
+2025-10-23 16:15:27,598 - INFO - Hotkeys registered: F1 = Start Bot, F2 = Stop Bot
+2025-10-23 16:15:27,598 - INFO - Cipher Bot initialized with hotkey controls (F1=Start, F2=Stop)
+2025-10-23 16:15:27,598 - INFO - Starting Cipher Bot system...
+2025-10-23 16:15:27,601 - INFO - Window detection found 1 Roblox windows
+2025-10-23 16:15:27,601 - INFO - Found Roblox windows:
+2025-10-23 16:15:27,601 - INFO -   1. [LAUNCHER] Roblox
+2025-10-23 16:15:27,601 - WARNING - WARNING: Only found launcher window - please join a game!
+2025-10-23 16:15:27,601 - WARNING - The bot may not work properly until you're in a game.
+2025-10-23 16:15:27,601 - INFO - Using window: Roblox
+2025-10-23 16:15:27,601 - INFO - Window position: (-8, -8, 1928, 1088)
+2025-10-23 16:15:27,602 - INFO - Successfully focused window (method 1)
+2025-10-23 16:15:28,634 - INFO - Press F1 to START the bot
+2025-10-23 16:15:28,635 - INFO - Press F2 to STOP the bot
+2025-10-23 16:15:28,635 - INFO - Press Ctrl+C to exit completely
+2025-10-23 16:15:35,321 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:15:35,321 - INFO - Moving forward for 1.3 seconds
+2025-10-23 16:15:40,347 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:15:40,347 - INFO - Moving forward for 1.2 seconds
+2025-10-23 16:15:45,608 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:15:45,608 - INFO - Moving forward for 1.8 seconds
+2025-10-23 16:15:50,673 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:15:50,673 - INFO - Moving forward for 1.2 seconds
+2025-10-23 16:15:52,875 - INFO - Turning right for 0.8 seconds
+2025-10-23 16:15:56,415 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:15:56,415 - INFO - Moving forward for 1.2 seconds
+2025-10-23 16:16:01,454 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:16:01,454 - INFO - Moving forward for 1.7 seconds
+2025-10-23 16:16:04,352 - INFO - Turning right for 0.4 seconds
+2025-10-23 16:16:06,600 - INFO - Sent message: Cool fact: A day on Venus is longer than a year on Venus!
+2025-10-23 16:20:12,253 - INFO - Hotkeys registered: F1 = Start Bot, F2 = Stop Bot
+2025-10-23 16:20:12,254 - INFO - Cipher Bot initialized with hotkey controls (F1=Start, F2=Stop)
+2025-10-23 16:20:12,254 - INFO - Starting Cipher Bot system...
+2025-10-23 16:20:12,257 - INFO - Window detection found 1 Roblox windows
+2025-10-23 16:20:12,257 - INFO - Found Roblox windows:
+2025-10-23 16:20:12,257 - INFO -   1. [LAUNCHER] Roblox
+2025-10-23 16:20:12,257 - WARNING - WARNING: Only found launcher window - please join a game!
+2025-10-23 16:20:12,257 - WARNING - The bot may not work properly until you're in a game.
+2025-10-23 16:20:12,257 - INFO - Using window: Roblox
+2025-10-23 16:20:12,258 - INFO - Window position: (-8, -8, 1928, 1088)
+2025-10-23 16:20:12,258 - INFO - Successfully focused window (method 1)
+2025-10-23 16:20:13,312 - INFO - Press F1 to START the bot
+2025-10-23 16:20:13,312 - INFO - Press F2 to STOP the bot
+2025-10-23 16:20:13,313 - INFO - Press Ctrl+C to exit completely
+2025-10-23 16:20:15,465 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:20:15,465 - INFO - Moving forward for 1.5 seconds
+2025-10-23 16:20:21,184 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:20:21,184 - INFO - Moving forward for 1.7 seconds
+2025-10-23 16:20:27,070 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:20:27,070 - INFO - Moving forward for 1.2 seconds
+2025-10-23 16:20:29,775 - INFO - Turning right for 0.7 seconds
+2025-10-23 16:20:33,247 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:20:33,247 - INFO - Moving forward for 1.7 seconds
+2025-10-23 16:20:35,836 - INFO - Turning left for 0.3 seconds
+2025-10-23 16:20:38,902 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:20:38,902 - INFO - Moving forward for 1.2 seconds
+2025-10-23 16:20:41,529 - INFO - Turning right for 0.3 seconds
+2025-10-23 16:20:44,805 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:20:44,805 - INFO - Moving forward for 1.0 seconds
+2025-10-23 16:20:46,789 - INFO - Turning right for 0.5 seconds
+2025-10-23 16:20:47,196 - INFO - Sent message: Did you know? A single cloud can weigh more than a million pounds!
+2025-10-23 16:28:37,478 - INFO - ✓ Direct input controller initialized
+2025-10-23 16:28:37,592 - INFO - Hotkeys registered: F1 = Start Bot, F2 = Stop Bot
+2025-10-23 16:28:37,592 - INFO - Cipher Bot initialized with hotkey controls (F1=Start, F2=Stop)
+2025-10-23 16:28:37,592 - INFO - Starting Cipher Bot system...
+2025-10-23 16:28:37,594 - INFO - Window detection found 1 Roblox windows
+2025-10-23 16:28:37,595 - INFO - Found Roblox windows:
+2025-10-23 16:28:37,595 - INFO -   1. [LAUNCHER] Roblox
+2025-10-23 16:28:37,595 - WARNING - WARNING: Only found launcher window - please join a game!
+2025-10-23 16:28:37,595 - WARNING - The bot may not work properly until you're in a game.
+2025-10-23 16:28:37,595 - INFO - Using window: Roblox
+2025-10-23 16:28:37,595 - INFO - Window position: (-8, -8, 1928, 1088)
+2025-10-23 16:28:37,596 - INFO - Successfully focused window (method 1)
+2025-10-23 16:28:38,610 - INFO - 🎮 Bot system ready!
+2025-10-23 16:28:38,610 - INFO - Press F1 to START the bot
+2025-10-23 16:28:38,610 - INFO - Press F2 to STOP the bot
+2025-10-23 16:28:38,610 - INFO - Press Ctrl+C to exit completely
+2025-10-23 16:28:42,808 - INFO - Sent message: 🤖 Cipher Bot system ready! Press F1 to activate, F2 to deactivate.
+2025-10-23 16:28:46,584 - INFO - 🟢 Bot STARTED via F1 hotkey!
+2025-10-23 16:28:46,852 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:28:46,852 - INFO - [DIRECT INPUT] Moving forward for 1.1 seconds
+2025-10-23 16:28:49,155 - INFO - [DIRECT INPUT] Turning right for 0.6 seconds
+2025-10-23 16:28:49,433 - INFO - Sent message: 🤖 Cipher Bot activated! (F2 to stop)
+2025-10-23 16:28:52,282 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:28:52,282 - INFO - [DIRECT INPUT] Moving forward for 1.3 seconds
+2025-10-23 16:28:56,707 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:28:56,707 - INFO - [DIRECT INPUT] Moving forward for 1.1 seconds
+2025-10-23 16:29:01,251 - INFO - In launcher mode - doing basic movement
+2025-10-23 16:29:01,251 - INFO - [DIRECT INPUT] Moving forward for 1.9 seconds
+2025-10-23 16:29:04,408 - INFO - [DIRECT INPUT] Turning left for 0.6 seconds
+2025-10-23 16:29:07,860 - INFO - 🔴 Bot STOPPED via F2 hotkey!
+2025-10-23 16:29:10,832 - INFO - Sent message: 🤖 Cipher Bot deactivated! (F1 to start)
+2025-10-23 16:35:25,095 - INFO - ✓ Direct input controller initialized
+2025-10-23 16:35:25,199 - INFO - Hotkeys registered: F1 = Start Bot, F2 = Stop Bot
+2025-10-23 16:35:25,199 - INFO - Cipher Bot initialized with hotkey controls (F1=Start, F2=Stop)
+2025-10-23 16:35:25,199 - INFO - 🟠 Orange ball tracking enabled!
+2025-10-23 16:35:25,200 - INFO - Starting Cipher Bot system...
+2025-10-23 16:35:25,203 - INFO - Window detection found 1 Roblox windows
+2025-10-23 16:35:25,203 - INFO - Found Roblox windows:
+2025-10-23 16:35:25,203 - INFO -   1. [LAUNCHER] Roblox
+2025-10-23 16:35:25,203 - WARNING - WARNING: Only found launcher window - please join a game!
+2025-10-23 16:35:25,203 - WARNING - The bot may not work properly until you're in a game.
+2025-10-23 16:35:25,203 - INFO - Using window: Roblox
+2025-10-23 16:35:25,203 - INFO - Window position: (-8, -8, 1928, 1088)
+2025-10-23 16:35:25,204 - INFO - Successfully focused window (method 1)
+2025-10-23 16:35:26,212 - INFO - 🎮 Bot system ready!
+2025-10-23 16:35:26,212 - INFO - Press F1 to START the bot
+2025-10-23 16:35:26,213 - INFO - Press F2 to STOP the bot
+2025-10-23 16:35:26,213 - INFO - Press Ctrl+C to exit completely
+2025-10-23 16:35:30,441 - INFO - Sent message: 🤖 Cipher Bot system ready! Press F1 to activate, F2 to deactivate.
+2025-10-23 16:35:37,356 - INFO - 🟢 Bot STARTED via F1 hotkey!
+2025-10-23 16:35:37,660 - INFO - 🟠 Orange detected! Area: 6301.0, Center: (466, 1054)
+2025-10-23 16:35:37,661 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:38,075 - INFO - 🟠 Orange detected! Area: 764.0, Center: (90, 260)
+2025-10-23 16:35:38,075 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:38,492 - INFO - 🟠 Orange detected! Area: 764.0, Center: (90, 260)
+2025-10-23 16:35:38,493 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:38,901 - INFO - 🟠 Orange detected! Area: 764.0, Center: (90, 260)
+2025-10-23 16:35:38,901 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:39,322 - INFO - 🟠 Orange detected! Area: 764.0, Center: (90, 246)
+2025-10-23 16:35:39,323 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:39,743 - INFO - 🟠 Orange detected! Area: 764.0, Center: (90, 232)
+2025-10-23 16:35:39,744 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:40,151 - INFO - 🟠 Orange detected! Area: 764.0, Center: (90, 218)
+2025-10-23 16:35:40,152 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:40,483 - INFO - Sent message: 🤖 Cipher Bot activated! (F2 to stop)
+2025-10-23 16:35:40,571 - INFO - 🟠 Orange detected! Area: 764.0, Center: (90, 218)
+2025-10-23 16:35:40,572 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:40,986 - INFO - 🟠 Orange detected! Area: 764.0, Center: (90, 218)
+2025-10-23 16:35:40,986 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:41,405 - INFO - 🟠 Orange detected! Area: 764.0, Center: (90, 218)
+2025-10-23 16:35:41,405 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:41,826 - INFO - 🟠 Orange detected! Area: 764.0, Center: (90, 204)
+2025-10-23 16:35:41,826 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:42,245 - INFO - 🟠 Orange detected! Area: 764.0, Center: (90, 204)
+2025-10-23 16:35:42,245 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:42,655 - INFO - 🟠 Orange detected! Area: 764.0, Center: (90, 204)
+2025-10-23 16:35:42,655 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:43,060 - INFO - 🟠 Orange detected! Area: 764.0, Center: (90, 204)
+2025-10-23 16:35:43,060 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:43,465 - INFO - 🟠 Orange detected! Area: 764.0, Center: (90, 204)
+2025-10-23 16:35:43,466 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:43,874 - INFO - 🟠 Orange detected! Area: 772.5, Center: (90, 204)
+2025-10-23 16:35:43,874 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:44,284 - INFO - 🟠 Orange detected! Area: 771.0, Center: (90, 204)
+2025-10-23 16:35:44,284 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:44,704 - INFO - 🟠 Orange detected! Area: 771.0, Center: (90, 204)
+2025-10-23 16:35:44,704 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:45,111 - INFO - 🟠 Orange detected! Area: 771.0, Center: (90, 190)
+2025-10-23 16:35:45,111 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:45,520 - INFO - 🟠 Orange detected! Area: 772.5, Center: (90, 190)
+2025-10-23 16:35:45,520 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:45,950 - INFO - Wall detected! Turning right
+2025-10-23 16:35:45,950 - INFO - Wall detected! Turning right
+2025-10-23 16:35:45,950 - INFO - [ARROW KEY] Turning camera right for 1.0 seconds
+2025-10-23 16:35:47,566 - INFO - 🟠 Orange detected! Area: 26254.5, Center: (545, 769)
+2025-10-23 16:35:47,566 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:47,987 - INFO - 🟠 Orange detected! Area: 33579.0, Center: (508, 792)
+2025-10-23 16:35:47,987 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:48,488 - INFO - 🟠 Orange detected! Area: 11373.0, Center: (64, 1018)
+2025-10-23 16:35:48,488 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:48,892 - INFO - 🟠 Orange detected! Area: 772.5, Center: (90, 190)
+2025-10-23 16:35:48,892 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:49,300 - INFO - 🟠 Orange detected! Area: 772.5, Center: (90, 190)
+2025-10-23 16:35:49,300 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:49,710 - INFO - 🟠 Orange detected! Area: 772.5, Center: (90, 190)
+2025-10-23 16:35:49,711 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:50,127 - INFO - 🟠 Orange detected! Area: 772.5, Center: (90, 162)
+2025-10-23 16:35:50,129 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:50,536 - INFO - 🟠 Orange detected! Area: 7411.5, Center: (113, 614)
+2025-10-23 16:35:50,536 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:50,946 - INFO - 🟠 Orange detected! Area: 5134.0, Center: (931, 559)
+2025-10-23 16:35:51,043 - INFO - 🟠 Orange detected! Area: 6014.5, Center: (935, 575)
+2025-10-23 16:35:51,148 - INFO - 🟠 Orange detected! Area: 7316.0, Center: (953, 585)
+2025-10-23 16:35:51,242 - INFO - 🟠 Orange detected! Area: 8856.0, Center: (952, 595)
+2025-10-23 16:35:51,332 - INFO - 🟠 Orange detected! Area: 10988.0, Center: (951, 608)
+2025-10-23 16:35:51,426 - INFO - 🟠 Orange detected! Area: 13629.0, Center: (949, 622)
+2025-10-23 16:35:51,520 - INFO - 🟠 Orange detected! Area: 17746.5, Center: (946, 641)
+2025-10-23 16:35:51,614 - INFO - 🟠 Orange detected! Area: 23904.0, Center: (943, 665)
+2025-10-23 16:35:51,710 - INFO - 🟠 Orange detected! Area: 33095.0, Center: (939, 695)
+2025-10-23 16:35:52,192 - INFO - 🟠 Orange detected! Area: 34398.0, Center: (931, 1017)
+2025-10-23 16:35:52,289 - INFO - 🟠 Orange detected! Area: 772.5, Center: (90, 162)
+2025-10-23 16:35:52,289 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:52,693 - INFO - 🟠 Orange detected! Area: 772.5, Center: (90, 330)
+2025-10-23 16:35:52,693 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:53,402 - INFO - Wall detected! Turning left
+2025-10-23 16:35:53,403 - INFO - Wall detected! Turning left
+2025-10-23 16:35:53,403 - INFO - [ARROW KEY] Turning camera left for 1.0 seconds
+2025-10-23 16:35:55,016 - INFO - 🟠 Orange detected! Area: 20484.5, Center: (908, 552)
+2025-10-23 16:35:55,016 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:55,441 - INFO - 🟠 Orange detected! Area: 20988.5, Center: (852, 567)
+2025-10-23 16:35:55,441 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:35:56,344 - INFO - [ARROW KEY] Turning camera left for 0.6 seconds
+2025-10-23 16:35:57,234 - INFO - Wall detected! Turning right
+2025-10-23 16:35:57,235 - INFO - Wall detected! Turning right
+2025-10-23 16:35:57,235 - INFO - [ARROW KEY] Turning camera right for 1.0 seconds
+2025-10-23 16:35:59,339 - INFO - [ARROW KEY] Turning camera left for 0.4 seconds
+2025-10-23 16:36:00,194 - INFO - [ARROW KEY] Turning camera right for 0.6 seconds
+2025-10-23 16:36:01,118 - INFO - 🟠 Orange detected! Area: 22039.0, Center: (1876, 613)
+2025-10-23 16:36:01,119 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:36:01,560 - INFO - Wall detected! Turning right
+2025-10-23 16:36:01,562 - INFO - Wall detected! Turning right
+2025-10-23 16:36:01,562 - INFO - [ARROW KEY] Turning camera right for 1.0 seconds
+2025-10-23 16:36:03,189 - INFO - Wall detected! Turning right
+2025-10-23 16:36:03,190 - INFO - Wall detected! Turning right
+2025-10-23 16:36:03,190 - INFO - [ARROW KEY] Turning camera right for 1.0 seconds
+2025-10-23 16:36:04,811 - INFO - Wall detected! Turning right
+2025-10-23 16:36:04,811 - INFO - Wall detected! Turning right
+2025-10-23 16:36:04,812 - INFO - [ARROW KEY] Turning camera right for 1.0 seconds
+2025-10-23 16:36:06,423 - INFO - Wall detected! Turning right
+2025-10-23 16:36:06,423 - INFO - Wall detected! Turning right
+2025-10-23 16:36:06,423 - INFO - [ARROW KEY] Turning camera right for 1.0 seconds
+2025-10-23 16:36:08,042 - INFO - Wall detected! Turning right
+2025-10-23 16:36:08,043 - INFO - Wall detected! Turning right
+2025-10-23 16:36:08,043 - INFO - [ARROW KEY] Turning camera right for 1.0 seconds
+2025-10-23 16:36:09,675 - INFO - 🟠 Orange detected! Area: 870.5, Center: (929, 522)
+2025-10-23 16:36:09,785 - INFO - 🟠 Orange detected! Area: 772.5, Center: (90, 274)
+2025-10-23 16:36:09,785 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:10,190 - INFO - 🟠 Orange detected! Area: 772.5, Center: (90, 274)
+2025-10-23 16:36:10,191 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:10,598 - INFO - 🟠 Orange detected! Area: 772.5, Center: (90, 274)
+2025-10-23 16:36:10,599 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:11,002 - INFO - 🟠 Orange detected! Area: 772.5, Center: (90, 344)
+2025-10-23 16:36:11,002 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:11,410 - INFO - 🟠 Orange detected! Area: 12867.5, Center: (984, 80)
+2025-10-23 16:36:11,503 - INFO - 🟠 Orange detected! Area: 10855.0, Center: (985, 73)
+2025-10-23 16:36:11,598 - INFO - 🟠 Orange detected! Area: 13093.0, Center: (986, 78)
+2025-10-23 16:36:11,693 - INFO - 🟠 Orange detected! Area: 25780.5, Center: (987, 110)
+2025-10-23 16:36:11,801 - INFO - 🟠 Orange detected! Area: 34376.5, Center: (987, 223)
+2025-10-23 16:36:11,891 - INFO - 🟠 Orange detected! Area: 31446.0, Center: (987, 460)
+2025-10-23 16:36:11,987 - INFO - 🟠 Orange detected! Area: 11955.5, Center: (1064, 923)
+2025-10-23 16:36:11,987 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:36:12,398 - INFO - Wall detected! Turning left
+2025-10-23 16:36:12,399 - INFO - Wall detected! Turning left
+2025-10-23 16:36:12,400 - INFO - [ARROW KEY] Turning camera left for 1.0 seconds
+2025-10-23 16:36:14,067 - INFO - 🟠 Orange detected! Area: 38607.5, Center: (1536, 1002)
+2025-10-23 16:36:14,067 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:36:14,695 - INFO - 🟠 Orange detected! Area: 38607.5, Center: (1536, 1002)
+2025-10-23 16:36:14,695 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:36:15,327 - INFO - Wall detected! Turning right
+2025-10-23 16:36:15,328 - INFO - Wall detected! Turning right
+2025-10-23 16:36:15,329 - INFO - [ARROW KEY] Turning camera right for 1.0 seconds
+2025-10-23 16:36:16,953 - INFO - 🟠 Orange detected! Area: 38607.5, Center: (1536, 1002)
+2025-10-23 16:36:16,953 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:36:17,582 - INFO - 🟠 Orange detected! Area: 33428.5, Center: (1561, 1009)
+2025-10-23 16:36:17,582 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:36:18,212 - INFO - 🟠 Orange detected! Area: 29758.5, Center: (1588, 1014)
+2025-10-23 16:36:18,213 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:36:18,851 - INFO - 🟠 Orange detected! Area: 29758.5, Center: (1588, 1014)
+2025-10-23 16:36:18,851 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:36:19,279 - INFO - 🟠 Orange detected! Area: 29758.5, Center: (1588, 1014)
+2025-10-23 16:36:19,280 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:36:19,913 - INFO - 🟠 Orange detected! Area: 29758.5, Center: (1588, 1014)
+2025-10-23 16:36:19,913 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:36:20,369 - INFO - 🟠 Orange detected! Area: 14786.5, Center: (79, 475)
+2025-10-23 16:36:20,370 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:21,120 - INFO - 🟠 Orange detected! Area: 8355.5, Center: (871, 726)
+2025-10-23 16:36:21,120 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:21,871 - INFO - 🟠 Orange detected! Area: 280.5, Center: (1831, 358)
+2025-10-23 16:36:21,872 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:36:22,524 - INFO - 🟠 Orange detected! Area: 7260.0, Center: (870, 740)
+2025-10-23 16:36:22,524 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:23,165 - INFO - 🟠 Orange detected! Area: 7260.0, Center: (870, 740)
+2025-10-23 16:36:23,166 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:23,805 - INFO - 🟠 Orange detected! Area: 8412.0, Center: (870, 726)
+2025-10-23 16:36:23,805 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:24,221 - INFO - 🟠 Orange detected! Area: 9870.5, Center: (880, 720)
+2025-10-23 16:36:24,221 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:24,645 - INFO - 🟠 Orange detected! Area: 9870.5, Center: (880, 720)
+2025-10-23 16:36:24,646 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:25,064 - INFO - 🟠 Orange detected! Area: 9870.5, Center: (880, 720)
+2025-10-23 16:36:25,065 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:25,483 - INFO - 🟠 Orange detected! Area: 9870.5, Center: (880, 720)
+2025-10-23 16:36:25,484 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:25,901 - INFO - 🟠 Orange detected! Area: 10157.5, Center: (882, 717)
+2025-10-23 16:36:25,901 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:26,325 - INFO - 🟠 Orange detected! Area: 10855.5, Center: (888, 707)
+2025-10-23 16:36:26,325 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:26,745 - INFO - 🟠 Orange detected! Area: 10855.5, Center: (888, 707)
+2025-10-23 16:36:26,746 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:27,166 - INFO - 🟠 Orange detected! Area: 10855.5, Center: (888, 707)
+2025-10-23 16:36:27,166 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:27,573 - INFO - 🟠 Orange detected! Area: 5899.0, Center: (876, 568)
+2025-10-23 16:36:27,573 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:27,983 - INFO - 🟠 Orange detected! Area: 4506.0, Center: (852, 539)
+2025-10-23 16:36:27,983 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:28,399 - INFO - 🟠 Orange detected! Area: 2300.0, Center: (765, 475)
+2025-10-23 16:36:28,399 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:28,809 - INFO - 🟠 Orange detected! Area: 1767.5, Center: (725, 454)
+2025-10-23 16:36:28,809 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:29,226 - INFO - 🟠 Orange detected! Area: 1767.5, Center: (725, 454)
+2025-10-23 16:36:29,226 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:29,638 - INFO - 🟠 Orange detected! Area: 1767.5, Center: (725, 454)
+2025-10-23 16:36:29,639 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:30,043 - INFO - 🟠 Orange detected! Area: 1767.5, Center: (725, 454)
+2025-10-23 16:36:30,043 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:30,449 - INFO - 🟠 Orange detected! Area: 1767.5, Center: (725, 454)
+2025-10-23 16:36:30,449 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:30,854 - INFO - 🟠 Orange detected! Area: 1767.5, Center: (725, 454)
+2025-10-23 16:36:30,855 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:31,268 - INFO - 🟠 Orange detected! Area: 1767.5, Center: (725, 454)
+2025-10-23 16:36:31,268 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:31,683 - INFO - 🟠 Orange detected! Area: 3806.5, Center: (803, 481)
+2025-10-23 16:36:31,684 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:32,086 - INFO - 🟠 Orange detected! Area: 6521.5, Center: (818, 604)
+2025-10-23 16:36:32,086 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:32,497 - INFO - 🟠 Orange detected! Area: 6521.5, Center: (818, 604)
+2025-10-23 16:36:32,498 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:32,904 - INFO - 🟠 Orange detected! Area: 6521.5, Center: (818, 604)
+2025-10-23 16:36:32,904 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:33,309 - INFO - 🟠 Orange detected! Area: 6521.5, Center: (818, 604)
+2025-10-23 16:36:33,310 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:33,716 - INFO - 🟠 Orange detected! Area: 6684.0, Center: (830, 593)
+2025-10-23 16:36:33,716 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:34,121 - INFO - 🟠 Orange detected! Area: 6694.0, Center: (831, 592)
+2025-10-23 16:36:34,121 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:34,531 - INFO - 🟠 Orange detected! Area: 6694.0, Center: (831, 592)
+2025-10-23 16:36:34,531 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:34,955 - INFO - 🟠 Orange detected! Area: 6694.0, Center: (831, 592)
+2025-10-23 16:36:34,955 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:35,376 - INFO - 🟠 Orange detected! Area: 7276.5, Center: (848, 594)
+2025-10-23 16:36:35,376 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:35,787 - INFO - 🟠 Orange detected! Area: 5175.0, Center: (785, 525)
+2025-10-23 16:36:35,787 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:36,203 - INFO - 🟠 Orange detected! Area: 4192.5, Center: (770, 489)
+2025-10-23 16:36:36,203 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:36,614 - INFO - 🟠 Orange detected! Area: 4210.0, Center: (778, 489)
+2025-10-23 16:36:36,615 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:37,020 - INFO - 🟠 Orange detected! Area: 4196.5, Center: (775, 489)
+2025-10-23 16:36:37,020 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:37,426 - INFO - 🟠 Orange detected! Area: 4924.0, Center: (817, 514)
+2025-10-23 16:36:37,426 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:37,840 - INFO - 🟠 Orange detected! Area: 280.5, Center: (1831, 358)
+2025-10-23 16:36:37,840 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:36:38,454 - INFO - 🟠 Orange detected! Area: 4903.0, Center: (801, 514)
+2025-10-23 16:36:38,455 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:38,957 - INFO - 🟠 Orange detected! Area: 2217.0, Center: (796, 506)
+2025-10-23 16:36:38,957 - INFO - [ARROW KEY] Turning camera left for 0.3 seconds
+2025-10-23 16:36:39,365 - INFO - 🟠 Orange detected! Area: 280.5, Center: (1831, 358)
+2025-10-23 16:36:39,366 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:36:39,788 - INFO - 🟠 Orange detected! Area: 280.5, Center: (1831, 358)
+2025-10-23 16:36:39,788 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:36:40,205 - INFO - 🟠 Orange detected! Area: 280.5, Center: (1831, 358)
+2025-10-23 16:36:40,205 - INFO - [ARROW KEY] Turning camera right for 0.3 seconds
+2025-10-23 16:40:31,021 - INFO - ✓ Direct input controller initialized
+2025-10-23 16:40:31,129 - INFO - Hotkeys registered: F1 = Start Bot, F2 = Stop Bot
+2025-10-23 16:40:31,130 - INFO - Cipher Bot initialized with hotkey controls (F1=Start, F2=Stop)
+2025-10-23 16:40:31,130 - INFO - 🟠 Orange ball tracking enabled!
+2025-10-23 16:40:31,130 - INFO - Starting Cipher Bot system...
+2025-10-23 16:40:31,133 - INFO - Window detection found 1 Roblox windows
+2025-10-23 16:40:31,134 - INFO - Found Roblox windows:
+2025-10-23 16:40:31,134 - INFO -   1. [LAUNCHER] Roblox
+2025-10-23 16:40:31,134 - WARNING - WARNING: Only found launcher window - please join a game!
+2025-10-23 16:40:31,134 - WARNING - The bot may not work properly until you're in a game.
+2025-10-23 16:40:31,134 - INFO - Using window: Roblox
+2025-10-23 16:40:31,134 - INFO - Window position: (-8, -8, 1928, 1088)
+2025-10-23 16:40:31,135 - INFO - Successfully focused window (method 1)
+2025-10-23 16:40:32,149 - INFO - 🎮 Bot system ready!
+2025-10-23 16:40:32,149 - INFO - Press F1 to START the bot
+2025-10-23 16:40:32,149 - INFO - Press F2 to STOP the bot
+2025-10-23 16:40:32,149 - INFO - Press Ctrl+C to exit completely
+2025-10-23 16:40:34,521 - INFO - 🟢 Bot STARTED via F1 hotkey!
+2025-10-23 16:40:34,764 - INFO - 🟠 TRACKING ORANGE! Area: 764.0
+2025-10-23 16:40:34,765 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:34,843 - INFO - 🟠 TRACKING ORANGE! Area: 764.0
+2025-10-23 16:40:34,844 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:34,924 - INFO - 🟠 TRACKING ORANGE! Area: 764.0
+2025-10-23 16:40:34,926 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:35,000 - INFO - 🟠 TRACKING ORANGE! Area: 764.0
+2025-10-23 16:40:35,001 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:35,079 - INFO - 🟠 TRACKING ORANGE! Area: 764.0
+2025-10-23 16:40:35,081 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:35,157 - INFO - 🟠 TRACKING ORANGE! Area: 764.0
+2025-10-23 16:40:35,158 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:35,234 - INFO - 🟠 TRACKING ORANGE! Area: 32278.0
+2025-10-23 16:40:35,236 - INFO -   → Turning RIGHT (offset: 781)
+2025-10-23 16:40:35,312 - INFO - 🟠 TRACKING ORANGE! Area: 6603.5
+2025-10-23 16:40:35,313 - INFO -   ← Turning LEFT (offset: -130)
+2025-10-23 16:40:35,391 - INFO - 🟠 TRACKING ORANGE! Area: 764.0
+2025-10-23 16:40:35,392 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:35,469 - INFO - 🟠 TRACKING ORANGE! Area: 764.0
+2025-10-23 16:40:35,470 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:35,547 - INFO - 🟠 TRACKING ORANGE! Area: 26831.5
+2025-10-23 16:40:35,549 - INFO -   ← Turning LEFT (offset: -284)
+2025-10-23 16:40:35,622 - INFO - 🟠 TRACKING ORANGE! Area: 36690.5
+2025-10-23 16:40:35,623 - INFO -   ← Turning LEFT (offset: -133)
+2025-10-23 16:40:35,702 - INFO - 🟠 TRACKING ORANGE! Area: 48805.5
+2025-10-23 16:40:35,703 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:35,780 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:35,933 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:36,089 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:36,244 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:36,406 - INFO - 🟠 TRACKING ORANGE! Area: 772.5
+2025-10-23 16:40:36,408 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:36,486 - INFO - 🟠 TRACKING ORANGE! Area: 772.5
+2025-10-23 16:40:36,487 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:36,564 - INFO - 🟠 TRACKING ORANGE! Area: 772.5
+2025-10-23 16:40:36,565 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:36,640 - INFO - 🟠 TRACKING ORANGE! Area: 772.0
+2025-10-23 16:40:36,641 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:36,739 - INFO - 🟠 TRACKING ORANGE! Area: 772.5
+2025-10-23 16:40:36,740 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:36,817 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:36,819 - INFO - Wall detected! Turning left
+2025-10-23 16:40:36,820 - INFO - Wall ahead! Turning left
+2025-10-23 16:40:38,300 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:38,458 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:38,613 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:38,767 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:38,923 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:39,079 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:39,234 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:39,234 - INFO - Wall detected! Turning left
+2025-10-23 16:40:39,236 - INFO - Wall ahead! Turning left
+2025-10-23 16:40:40,706 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:40,707 - INFO - Wall detected! Turning right
+2025-10-23 16:40:40,708 - INFO - Wall ahead! Turning right
+2025-10-23 16:40:42,186 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:42,341 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:42,501 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:42,657 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:42,818 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:42,961 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:43,118 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:43,274 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:43,436 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:44,306 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:44,307 - INFO - Wall detected! Turning right
+2025-10-23 16:40:44,308 - INFO - Wall ahead! Turning right
+2025-10-23 16:40:45,789 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:45,945 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:46,101 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:46,261 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:46,413 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:46,573 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:46,728 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:46,882 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:47,034 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:47,194 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:47,353 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:47,505 - INFO - 🟠 TRACKING ORANGE! Area: 40993.0
+2025-10-23 16:40:47,506 - INFO -   → Turning RIGHT (offset: 202)
+2025-10-23 16:40:47,587 - INFO - 🟠 TRACKING ORANGE! Area: 772.5
+2025-10-23 16:40:47,588 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:47,664 - INFO - 🟠 TRACKING ORANGE! Area: 772.5
+2025-10-23 16:40:47,666 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:47,739 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:47,894 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:48,050 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:48,207 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:48,208 - INFO - Wall detected! Turning right
+2025-10-23 16:40:48,210 - INFO - Wall ahead! Turning right
+2025-10-23 16:40:49,694 - INFO - 🟠 TRACKING ORANGE! Area: 30349.0
+2025-10-23 16:40:49,695 - INFO -   ← Turning LEFT (offset: -793)
+2025-10-23 16:40:49,772 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:49,921 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:49,922 - INFO - Wall detected! Turning right
+2025-10-23 16:40:49,923 - INFO - Wall ahead! Turning right
+2025-10-23 16:40:51,408 - INFO - 🟠 TRACKING ORANGE! Area: 16101.0
+2025-10-23 16:40:51,408 - INFO -   ← Turning LEFT (offset: -98)
+2025-10-23 16:40:51,487 - INFO - 🟠 TRACKING ORANGE! Area: 29996.5
+2025-10-23 16:40:51,488 - INFO -   ← Turning LEFT (offset: -101)
+2025-10-23 16:40:51,561 - INFO - 🟠 TRACKING ORANGE! Area: 28496.5
+2025-10-23 16:40:51,563 - INFO -   ← Turning LEFT (offset: -83)
+2025-10-23 16:40:51,641 - INFO - 🟠 TRACKING ORANGE! Area: 29683.5
+2025-10-23 16:40:51,642 - INFO -   ← Turning LEFT (offset: -83)
+2025-10-23 16:40:51,717 - INFO - 🟠 TRACKING ORANGE! Area: 18730.0
+2025-10-23 16:40:51,717 - INFO -   ← Turning LEFT (offset: -86)
+2025-10-23 16:40:51,799 - INFO - 🟠 TRACKING ORANGE! Area: 23353.0
+2025-10-23 16:40:51,800 - INFO -   ← Turning LEFT (offset: -86)
+2025-10-23 16:40:51,872 - INFO - 🟠 TRACKING ORANGE! Area: 23487.5
+2025-10-23 16:40:51,873 - INFO -   ← Turning LEFT (offset: -82)
+2025-10-23 16:40:51,951 - INFO - 🟠 TRACKING ORANGE! Area: 26330.5
+2025-10-23 16:40:51,952 - INFO -   ← Turning LEFT (offset: -69)
+2025-10-23 16:40:52,029 - INFO - 🟠 TRACKING ORANGE! Area: 11299.5
+2025-10-23 16:40:52,030 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:52,112 - INFO - 🟠 TRACKING ORANGE! Area: 12358.0
+2025-10-23 16:40:52,112 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:52,188 - INFO - 🟠 TRACKING ORANGE! Area: 13084.0
+2025-10-23 16:40:52,189 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:52,266 - INFO - 🟠 TRACKING ORANGE! Area: 14061.5
+2025-10-23 16:40:52,266 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:52,345 - INFO - 🟠 TRACKING ORANGE! Area: 15278.5
+2025-10-23 16:40:52,345 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:52,423 - INFO - 🟠 TRACKING ORANGE! Area: 16029.0
+2025-10-23 16:40:52,424 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:52,500 - INFO - 🟠 TRACKING ORANGE! Area: 17586.5
+2025-10-23 16:40:52,500 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:52,577 - INFO - 🟠 TRACKING ORANGE! Area: 18137.5
+2025-10-23 16:40:52,577 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:52,659 - INFO - 🟠 TRACKING ORANGE! Area: 19830.5
+2025-10-23 16:40:52,660 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:52,734 - INFO - 🟠 TRACKING ORANGE! Area: 21405.0
+2025-10-23 16:40:52,734 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:52,816 - INFO - 🟠 TRACKING ORANGE! Area: 22594.5
+2025-10-23 16:40:52,818 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:52,890 - INFO - 🟠 TRACKING ORANGE! Area: 25306.0
+2025-10-23 16:40:52,890 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:52,968 - INFO - 🟠 TRACKING ORANGE! Area: 26726.0
+2025-10-23 16:40:52,969 - INFO -   → Turning RIGHT (offset: 31)
+2025-10-23 16:40:53,046 - INFO - 🟠 TRACKING ORANGE! Area: 30443.0
+2025-10-23 16:40:53,047 - INFO -   → Turning RIGHT (offset: 33)
+2025-10-23 16:40:53,122 - INFO - 🟠 TRACKING ORANGE! Area: 32977.5
+2025-10-23 16:40:53,123 - INFO -   → Turning RIGHT (offset: 35)
+2025-10-23 16:40:53,200 - INFO - 🟠 TRACKING ORANGE! Area: 37076.5
+2025-10-23 16:40:53,201 - INFO -   → Turning RIGHT (offset: 37)
+2025-10-23 16:40:53,279 - INFO - 🟠 TRACKING ORANGE! Area: 41368.0
+2025-10-23 16:40:53,280 - INFO -   → Turning RIGHT (offset: 40)
+2025-10-23 16:40:53,356 - INFO - 🟠 TRACKING ORANGE! Area: 36910.0
+2025-10-23 16:40:53,357 - INFO -   → Turning RIGHT (offset: 42)
+2025-10-23 16:40:53,434 - INFO - 🟠 TRACKING ORANGE! Area: 37230.0
+2025-10-23 16:40:53,435 - INFO -   → Turning RIGHT (offset: 45)
+2025-10-23 16:40:53,515 - INFO - 🟠 TRACKING ORANGE! Area: 39792.0
+2025-10-23 16:40:53,517 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:53,589 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:53,744 - INFO - 🟠 TRACKING ORANGE! Area: 48740.5
+2025-10-23 16:40:53,744 - INFO -   → Turning RIGHT (offset: 68)
+2025-10-23 16:40:53,824 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:53,984 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:54,141 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:54,295 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:54,450 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:54,606 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:54,762 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:54,916 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:55,072 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:55,233 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:55,391 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:55,545 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:55,706 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:40:56,574 - INFO - 🟠 TRACKING ORANGE! Area: 4707.0
+2025-10-23 16:40:56,575 - INFO -   ← Turning LEFT (offset: -123)
+2025-10-23 16:40:56,652 - INFO - 🟠 TRACKING ORANGE! Area: 4561.0
+2025-10-23 16:40:56,653 - INFO -   ← Turning LEFT (offset: -121)
+2025-10-23 16:40:56,730 - INFO - 🟠 TRACKING ORANGE! Area: 4449.5
+2025-10-23 16:40:56,730 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:56,810 - INFO - 🟠 TRACKING ORANGE! Area: 4256.0
+2025-10-23 16:40:56,810 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:56,884 - INFO - 🟠 TRACKING ORANGE! Area: 10916.5
+2025-10-23 16:40:56,884 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:56,962 - INFO - 🟠 TRACKING ORANGE! Area: 1964.0
+2025-10-23 16:40:56,962 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:57,039 - INFO - 🟠 TRACKING ORANGE! Area: 771.5
+2025-10-23 16:40:57,040 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:57,118 - INFO - 🟠 TRACKING ORANGE! Area: 772.5
+2025-10-23 16:40:57,119 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:57,195 - INFO - 🟠 TRACKING ORANGE! Area: 772.5
+2025-10-23 16:40:57,196 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:57,274 - INFO - 🟠 TRACKING ORANGE! Area: 772.5
+2025-10-23 16:40:57,275 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:57,351 - INFO - 🟠 TRACKING ORANGE! Area: 772.5
+2025-10-23 16:40:57,352 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:57,430 - INFO - 🟠 TRACKING ORANGE! Area: 772.5
+2025-10-23 16:40:57,431 - INFO -   ← Turning LEFT (offset: -878)
+2025-10-23 16:40:57,513 - INFO - 🟠 TRACKING ORANGE! Area: 1010.0
+2025-10-23 16:40:57,513 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:57,586 - INFO - 🟠 TRACKING ORANGE! Area: 1455.5
+2025-10-23 16:40:57,586 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:57,662 - INFO - 🟠 TRACKING ORANGE! Area: 1130.0
+2025-10-23 16:40:57,662 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:57,742 - INFO - 🟠 TRACKING ORANGE! Area: 926.0
+2025-10-23 16:40:57,743 - INFO -   ← Turning LEFT (offset: -33)
+2025-10-23 16:40:57,822 - INFO - 🟠 TRACKING ORANGE! Area: 1100.0
+2025-10-23 16:40:57,823 - INFO -   → Turning RIGHT (offset: 46)
+2025-10-23 16:40:57,895 - INFO - 🟠 TRACKING ORANGE! Area: 1837.0
+2025-10-23 16:40:57,896 - INFO -   → Turning RIGHT (offset: 49)
+2025-10-23 16:40:57,977 - INFO - 🟠 TRACKING ORANGE! Area: 9475.5
+2025-10-23 16:40:57,977 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:58,051 - INFO - 🟠 TRACKING ORANGE! Area: 15007.5
+2025-10-23 16:40:58,051 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:58,130 - INFO - 🟠 TRACKING ORANGE! Area: 9621.0
+2025-10-23 16:40:58,130 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:58,206 - INFO - 🟠 TRACKING ORANGE! Area: 6966.0
+2025-10-23 16:40:58,207 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:58,283 - INFO - 🟠 TRACKING ORANGE! Area: 5052.5
+2025-10-23 16:40:58,283 - INFO -   ✓ CENTERED! Walking toward orange
+2025-10-23 16:40:58,362 - INFO - 🟠 TRACKING ORANGE! Area: 8135.5
+2025-10-23 16:40:58,362 - INFO -   → Turning RIGHT (offset: 861)
+2025-10-23 16:40:58,439 - INFO - 🟠 TRACKING ORANGE! Area: 23032.0
+2025-10-23 16:40:58,440 - INFO -   → Turning RIGHT (offset: 846)
+2025-10-23 16:40:58,519 - INFO - 🟠 TRACKING ORANGE! Area: 22925.0
+2025-10-23 16:40:58,520 - INFO -   → Turning RIGHT (offset: 837)
+2025-10-23 16:40:58,595 - INFO - 🟠 TRACKING ORANGE! Area: 28652.0
+2025-10-23 16:40:58,596 - INFO -   → Turning RIGHT (offset: 808)
+2025-10-23 16:40:58,672 - INFO - 🟠 TRACKING ORANGE! Area: 23289.5
+2025-10-23 16:40:58,673 - INFO -   → Turning RIGHT (offset: 631)
+2025-10-23 16:40:58,752 - INFO - 🟠 TRACKING ORANGE! Area: 22209.5
+2025-10-23 16:40:58,753 - INFO -   → Turning RIGHT (offset: 596)
+2025-10-23 16:40:58,829 - INFO - 🟠 TRACKING ORANGE! Area: 20776.0
+2025-10-23 16:40:58,830 - INFO -   → Turning RIGHT (offset: 578)
+2025-10-23 16:40:58,905 - INFO - 🟠 TRACKING ORANGE! Area: 19692.0
+2025-10-23 16:40:58,906 - INFO -   → Turning RIGHT (offset: 566)
+2025-10-23 16:40:58,984 - INFO - 🟠 TRACKING ORANGE! Area: 16047.5
+2025-10-23 16:40:58,984 - INFO -   → Turning RIGHT (offset: 443)
+2025-10-23 16:40:59,060 - INFO - 🟠 TRACKING ORANGE! Area: 14057.5
+2025-10-23 16:40:59,061 - INFO -   → Turning RIGHT (offset: 375)
+2025-10-23 16:40:59,140 - INFO - 🟠 TRACKING ORANGE! Area: 13316.0
+2025-10-23 16:40:59,140 - INFO -   → Turning RIGHT (offset: 365)
+2025-10-23 16:40:59,220 - INFO - 🟠 TRACKING ORANGE! Area: 9820.5
+2025-10-23 16:40:59,221 - INFO -   → Turning RIGHT (offset: 315)
+2025-10-23 16:40:59,295 - INFO - 🟠 TRACKING ORANGE! Area: 7228.5
+2025-10-23 16:40:59,296 - INFO -   → Turning RIGHT (offset: 272)
+2025-10-23 16:40:59,373 - INFO - 🟠 TRACKING ORANGE! Area: 7395.5
+2025-10-23 16:40:59,374 - INFO -   → Turning RIGHT (offset: 275)
+2025-10-23 16:40:59,450 - INFO - 🟠 TRACKING ORANGE! Area: 7629.0
+2025-10-23 16:40:59,450 - INFO -   → Turning RIGHT (offset: 278)
+2025-10-23 16:40:59,526 - INFO - 🟠 TRACKING ORANGE! Area: 7863.5
+2025-10-23 16:40:59,528 - INFO -   → Turning RIGHT (offset: 282)
+2025-10-23 16:40:59,606 - INFO - 🟠 TRACKING ORANGE! Area: 5554.0
+2025-10-23 16:40:59,606 - INFO -   → Turning RIGHT (offset: 285)
+2025-10-23 16:40:59,683 - INFO - 🟠 TRACKING ORANGE! Area: 8673.5
+2025-10-23 16:40:59,684 - INFO -   → Turning RIGHT (offset: 297)
+2025-10-23 16:40:59,761 - INFO - 🟠 TRACKING ORANGE! Area: 9825.5
+2025-10-23 16:40:59,762 - INFO -   → Turning RIGHT (offset: 314)
+2025-10-23 16:40:59,840 - INFO - 🟠 TRACKING ORANGE! Area: 13328.0
+2025-10-23 16:40:59,841 - INFO -   → Turning RIGHT (offset: 361)
+2025-10-23 16:40:59,917 - INFO - 🟠 TRACKING ORANGE! Area: 16103.0
+2025-10-23 16:40:59,918 - INFO -   → Turning RIGHT (offset: 393)
+2025-10-23 16:40:59,996 - INFO - 🟠 TRACKING ORANGE! Area: 17308.0
+2025-10-23 16:40:59,996 - INFO -   → Turning RIGHT (offset: 405)
+2025-10-23 16:41:00,073 - INFO - 🟠 TRACKING ORANGE! Area: 18150.5
+2025-10-23 16:41:00,074 - INFO -   → Turning RIGHT (offset: 414)
+2025-10-23 16:41:00,150 - INFO - 🟠 TRACKING ORANGE! Area: 18971.5
+2025-10-23 16:41:00,151 - INFO -   → Turning RIGHT (offset: 421)
+2025-10-23 16:41:00,233 - INFO - 🟠 TRACKING ORANGE! Area: 19931.0
+2025-10-23 16:41:00,235 - INFO -   → Turning RIGHT (offset: 430)
+2025-10-23 16:41:00,305 - INFO - 🟠 TRACKING ORANGE! Area: 20862.0
+2025-10-23 16:41:00,306 - INFO -   → Turning RIGHT (offset: 438)
+2025-10-23 16:41:00,389 - INFO - 🟠 TRACKING ORANGE! Area: 22172.0
+2025-10-23 16:41:00,389 - INFO -   → Turning RIGHT (offset: 449)
+2025-10-23 16:41:00,464 - INFO - 🟠 TRACKING ORANGE! Area: 23124.5
+2025-10-23 16:41:00,465 - INFO -   → Turning RIGHT (offset: 457)
+2025-10-23 16:41:00,542 - INFO - 🟠 TRACKING ORANGE! Area: 24623.0
+2025-10-23 16:41:00,543 - INFO -   → Turning RIGHT (offset: 469)
+2025-10-23 16:41:00,621 - INFO - 🟠 TRACKING ORANGE! Area: 25764.0
+2025-10-23 16:41:00,622 - INFO -   → Turning RIGHT (offset: 478)
+2025-10-23 16:41:00,698 - INFO - 🟠 TRACKING ORANGE! Area: 28879.0
+2025-10-23 16:41:00,699 - INFO -   → Turning RIGHT (offset: 706)
+2025-10-23 16:41:00,776 - INFO - 🟠 TRACKING ORANGE! Area: 28848.0
+2025-10-23 16:41:00,779 - INFO -   → Turning RIGHT (offset: 500)
+2025-10-23 16:41:00,853 - INFO - 🟠 TRACKING ORANGE! Area: 30529.0
+2025-10-23 16:41:00,854 - INFO -   → Turning RIGHT (offset: 512)
+2025-10-23 16:41:00,933 - INFO - 🟠 TRACKING ORANGE! Area: 32598.0
+2025-10-23 16:41:00,935 - INFO -   → Turning RIGHT (offset: 526)
+2025-10-23 16:41:01,014 - INFO - 🟠 TRACKING ORANGE! Area: 34859.5
+2025-10-23 16:41:01,015 - INFO -   → Turning RIGHT (offset: 540)
+2025-10-23 16:41:01,088 - INFO - 🟠 TRACKING ORANGE! Area: 36832.5
+2025-10-23 16:41:01,089 - INFO -   → Turning RIGHT (offset: 552)
+2025-10-23 16:41:01,165 - INFO - 🟠 TRACKING ORANGE! Area: 39537.0
+2025-10-23 16:41:01,166 - INFO -   → Turning RIGHT (offset: 568)
+2025-10-23 16:41:01,245 - INFO - 🟠 TRACKING ORANGE! Area: 42369.5
+2025-10-23 16:41:01,245 - INFO -   → Turning RIGHT (offset: 584)
+2025-10-23 16:41:01,320 - INFO - 🟠 TRACKING ORANGE! Area: 45802.0
+2025-10-23 16:41:01,321 - INFO -   → Turning RIGHT (offset: 603)
+2025-10-23 16:41:01,400 - INFO - 🟠 TRACKING ORANGE! Area: 48800.5
+2025-10-23 16:41:01,401 - INFO -   → Turning RIGHT (offset: 617)
+2025-10-23 16:41:01,478 - INFO - 🔍 No orange detected - wandering...
+2025-10-23 16:41:01,480 - INFO - Wall detected! Turning right
+2025-10-23 16:41:01,480 - INFO - Wall ahead! Turning right
+2025-10-23 16:41:02,606 - INFO - 🔴 Bot STOPPED via F2 hotkey!
