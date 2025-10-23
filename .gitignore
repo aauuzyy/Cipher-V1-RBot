@@ -1,0 +1,40 @@
+# Roblox Studio Files
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build outputs
+build/
+dist/
+out/
+
+# Logs
+*.log
+
+# Node modules (if using roblox-ts or similar)
+node_modules/
+
+# Rojo build files (if using Rojo)
+*.rojo.json.lock
+
+# Test outputs
+test-results/
+coverage/
